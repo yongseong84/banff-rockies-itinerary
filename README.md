@@ -2,7 +2,7 @@
 
 캐나다 로키(밴프 국립공원 → 레이크루이스 → 아이스필즈 파크웨이 → 재스퍼)를 렌터카로 도는 **2박 3일 자유여행 동선표**입니다. 캘거리 공항에서 차를 받아 다시 캘거리로 돌아오는 편도형 루트이고, 분 단위 타임테이블과 트레킹 구간까지 붙어 있습니다.
 
-**👉 [동선표 바로 보기](https://<USERNAME>.github.io/<REPO>/)**
+**👉 [동선표 바로 보기](https://yongseong84.github.io/banff-rockies-itinerary/)**
 
 ---
 
@@ -52,8 +52,8 @@ D3   피라미드 아일랜드 → 재스퍼 타운 → 선왑타 폭포
 별도의 빌드나 의존성이 없는 단일 HTML 파일입니다.
 
 ```bash
-git clone https://github.com/<USERNAME>/<REPO>.git
-cd <REPO>
+git clone https://github.com/yongseong84/banff-rockies-itinerary.git
+cd banff-rockies-itinerary
 # 브라우저로 index.html 열기
 ```
 
